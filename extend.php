@@ -5,37 +5,37 @@ use s9e\TextFormatter\Configurator;
 return (new Extend\Formatter)
         ->configure(function (Configurator $config){
             $config->BBCodes->addCustom(
-                '[huaji/]',
+                '[huaji]',
                 '<img src="./assets/0x.png"/>',
             );
 
             $config->BBCodes->addCustom(
-                '[yinxian/]',
+                '[yinxian]',
                 '<img src="./assets/0p.png"/>',
             );
 
             $config->BBCodes->addCustom(
-                '[pen/]',
+                '[pen]',
                 '<img src="./assets/1g.png">',
             );
 
             $config->BBCodes->addCustom(
-                '[hehe/]',
+                '[hehe]',
                 '<img src="./assets/0a.png">',
             );
 
             $config->BBCodes->addCustom(
-                '[cry/]',
+                '[cry]',
                 '<img src="./assets/0i.png"/>',
             );
 
             $config->BBCodes->addCustom(
-                '[angry/]',
+                '[angry]',
                 '<img src="./assets/0f.png"/>',
             );
 
             $config->BBCodes->addCustom(
-                '[smirking/]',
+                '[smirking]',
                 '<img src="./assets/1i.png"/>',
             );
 

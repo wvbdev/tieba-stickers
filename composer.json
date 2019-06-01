@@ -17,7 +17,7 @@
             "title": "Tieba Sticker BBCodes",
             "icon": {
                 "name": "fas fa-meh-blank",
-                "color": "#000",
+                "color": "#FFF",
                 "backgroundColor": "#2196F3"
             }
         }
