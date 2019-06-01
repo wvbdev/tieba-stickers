@@ -1,2 +1,2 @@
-# tieba-stickers
-Tieba Stickers BBCode for Flarum.
+# Tieba Stickers
+Tieba Sticker BBCodes for Flarum.
