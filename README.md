@@ -1,6 +1,6 @@
 # Tieba Stickers
-![Packagist](https://img.shields.io/packagist/l/JC-ProPlus/tieba-stickers.svg) ![Packagist Version](https://img.shields.io/packagist/v/JC-ProPlus/tieba-stickers.svg) ![Packagist](https://img.shields.io/packagist/dt/JC-ProPlus/tieba-stickers.svg)
-Tieba Sticker BBCodes for Flarum.
+![Packagist](https://img.shields.io/packagist/l/JC-ProPlus/tieba-stickers.svg) ![Packagist Version](https://img.shields.io/packagist/v/JC-ProPlus/tieba-stickers.svg) ![Packagist](https://img.shields.io/packagist/dt/JC-ProPlus/tieba-stickers.svg)\n
+Tieba Sticker BBCodes for Flarum.\n
 A group of BBCodes that allows user to send Baidu Tieba Stickers.
 # Usage
 ```
