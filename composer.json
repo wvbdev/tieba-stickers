@@ -1,5 +1,5 @@
 {
-    "name": "jc-proplus/tieba-stickers",
+    "name": "wvbforum/tieba-stickers",
     "description": "Tieba sticker BBCodes for Flarum.",
     "type": "flarum-extension",
     "license": "MIT",
@@ -7,6 +7,8 @@
         {
             "name": "JC-ProPlus",
             "email": "guo121guo@gmail.com"
+            "name": "2006bt"
+            "email": "m2006bt@outlook.com"
         }
     ],
     "require": {
