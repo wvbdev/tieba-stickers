@@ -1,5 +1,5 @@
 # Tieba Stickers
-![Packagist](https://img.shields.io/packagist/l/JC-ProPlus/tieba-stickers.svg) ![Packagist Version](https://img.shields.io/packagist/v/JC-ProPlus/tieba-stickers.svg) ![Packagist](https://img.shields.io/packagist/dt/JC-ProPlus/tieba-stickers.svg)
+![Packagist](https://img.shields.io/packagist/l/wvbforum/tieba-stickers.svg) ![Packagist Version](https://img.shields.io/packagist/v/wvbforum/tieba-stickers.svg) ![Packagist](https://img.shields.io/packagist/dt/wvbforum/tieba-stickers.svg)
 
 Tieba Sticker BBCodes for Flarum.
 
