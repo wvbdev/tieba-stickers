@@ -11,7 +11,7 @@ A group of BBCodes that allows user to send Baidu Tieba Stickers.
 ...which supports `huaji`, `yinxian`, `hehe`, `angry`, `cry`, `smirking` so far.
 # Installation
 ```
-composer require jc-proplus/tieba-stickers
+composer require wvbforum/tieba-stickers
 ```
 # Configuration
 Just install and enable it.
