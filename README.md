@@ -18,5 +18,5 @@ Just install and enable it.
 # Links
 
 
-- [GitHub](https://github.com/JC-ProPlus/tieba-stickers)
-- [Packagist](https://packagist.org/packages/jc-proplus/tieba-stickers)
+- [GitHub](https://github.com/windows-vista-bar/tieba-stickers)
+- [Packagist](https://packagist.org/packages/wvbforum/tieba-stickers)
