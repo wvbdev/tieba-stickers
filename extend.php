@@ -6,6 +6,6 @@ return (new Extend\Formatter)
         ->configure(function (Configurator $config){
             $config->BBCodes->addCustom(
                 '[tieba={TEXT1}]',
-                '<img src="http://img.wvbforum.xyz/tieba/{TEXT1}.png"/>',
+                '<img src="https://img.wvbforum.xyz/tieba/{TEXT1}.png"/>',
             );
         });
