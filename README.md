@@ -20,3 +20,9 @@ Just install and enable it.
 
 - [GitHub](https://github.com/windows-vista-bar/tieba-stickers)
 - [Packagist](https://packagist.org/packages/wvbforum/tieba-stickers)
+
+
+# TODO
+
+- [ ]Change BBCode style
+- [ ]Add Flarum-style auto-complete
