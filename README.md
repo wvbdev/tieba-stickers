@@ -24,5 +24,5 @@ Just install and enable it.
 
 # TODO
 
-- [ ]Change BBCode style
-- [ ]Add Flarum-style auto-complete
+- [ ] Change BBCode style
+- [ ] Add Flarum-style auto-complete
